@@ -1,0 +1,436 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: AcademicCV.tex
+geometry: margin=.7in
+
+title: "CV"
+author: Natasha Aduloju-Ajijola, PhD, MPH
+
+fontawesome: yes
+email: adulojuajijolan@umkc.edu
+github: adulojuajijola
+twitter: yourilera
+phone: "+1 816 285 1956"
+updated: no
+
+keywords: Public Health, Sexual Health, Health inequalities 
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+urlcolor: blue
+---
+
+# Education
+
+**Ph.D. Health Education and Promotion** \hfill August 2016  
+*University of Alabama, Tuscaloosa, Alabama* 
+
+* Dissertation: “Examining the Determinants of Condom Use among African American College students attending Predominantly White Institutions”.
+Advisors:  *Angelia Paschal Ph.D., Stuart Usdan Ph.D., CHES, Pamela Payne-Foster M.D., M.P.H, James Leeper Ph.D., and Brian Gordon Ph.D., C.H.E.S*
+
+**M.P.H. Master of Public Health** \hfill August 2013  
+*Ohio University, Athens, Ohio*
+
+- Capstone: The Health Impact of Childcare
+
+**B.A Bachelor of Arts in Philosophy** \hfill December 2011  
+*Ohio University, Athens, Ohio*
+
+**B.S. Bachelor of Science, Biology** \hfill June 2010  
+*Ohio University, Athens, Ohio*
+
+# Selected Honors and Awards
+
+- *Grant funding* \hfill December 2017 - June 2019  
+Kansas University Clinical and Translational Research Institute- TL1 Post Doctoral Fellow 
+- Outstanding Service Award \hfill April 2016  
+Executive Vice President of the Graduate Student Association 
+- University of Alabama Three Minute Thesis finalist \hfill November 2015
+- APHA’s Population, Reproduction, and Sexual Health section outstanding student poster award \hfill November 2015
+- Southern Regional Educational Board Dissertation Fellowship \hfill August 2015 - August 2016
+- Excellence in Service Award \hfill April 2015 
+Vice President of Fiscal Affairs and Awards of the Graduate student Association 
+- Eta Sigma Gamma Leadership Award \hfill April 2014
+
+# Employment
+
+## Industry 
+
+**Consultant** \hfill October 2017 - Present  
+*Lioness, LLC, Berkley, CA, USA*
+
+- Answer sexual health questions from lioness users
+- Assist with Product testing
+- Data Analysis
+
+## Governmental
+
+**Consultant** \hfill September 2017 - January 2018  
+*Live Healthy Me Inc, USA *
+
+- Pre-invention data analysis on the Obgyn ward of Main Hospital for the Ministry of Health of Grenada 
+
+**Consultant** \hfill March 2018 - September 2018  
+*Live Healthy Me Inc, USA *
+
+- Post- intervention data analysis on the Obgyn ward of Main Hospital for the Ministry of Health of Grenada 
+
+## Academia 
+**TL1- Post Doctoral Fellow** \hfill December 2017 - Present  
+*University of Missouri-Kansas City, School of Medicine, Department of Biomedical and Health Informatics, Kansas City, MO, USA *
+
+- Received a TL1- Training grant through the University of Kansas, Clinical and Translational Science Institute 
+- Working as Primary Investigator for “Religiously Tailoring the ARTAS-strength based system”, a community-based participatory research (CBPR) study geared towards increasing the number of African Americans living with HIV who are linked and retained in care. 
+
+**Post-Doctoral Fellow** \hfill October 2016 - December 2017  
+*University of Missouri-Kansas City Medical School Department of Biomedical and Health Informatics, Kansas City, MO, USA*
+
+-	Working as Primary Investigator with BlaqOut, a community organization that working with African American men who have sex with men in the Kansas City, Missouri area
+-	Assisted with data collection for Project Taking it to the Pews, a CBPR study on increasing HIV testing, building church capacity for health programming, and developing culturally and religiously tailored HIV/AIDS prevention materials
+-	Assisted with teaching, data collection, analysis for Project Faith Influencing Transformation a CBPR study on reducing diabetes, heart disease, and stroke prevalence in the African American community 
+-	Analyzed data and created report for Needs Assessment conducted at St. Mary’s and St. Ann’s Parishes in Jamaica, West Indies 
+
+**Graduate Research Assistant-Project FAITHH** \hfill May 2014 - December 2015  
+*University of Alabama, Tuscaloosa, AL, USA*
+
+- Faith-based anti-stigma initiative towards healing HIV/AIDS, grant initiative funded by the Centers for Disease Control
+- Worked with rural Alabama churches to implement a standardized HIV curriculum and an anti-stigma and discrimination curriculum
+- Fostered relationships with Alabama AIDS outreach centers
+- Hosted the Minister’s Dissemination Conference, a conference for African American pastors and ministers to disseminate the results and tools used in the project
+
+**Graduate Research Assistant** \hfill September 2013 - May 2014  
+*University of Alabama, Office of Assessment and Planning, Tuscaloosa, AL, USA*
+
+-	Worked and developed the narrative for multiple sections for the reaccreditation of the University of Alabama by the Southern Association of Colleges and Schools (SACS) 
+-	Developed, monitored, and evaluated project plans.
+-	Provided ongoing support to departments in questionnaire development, statistical analysis, qualitative analysis, peer debriefing, and report writing.
+-	Assisted on multiple committees for the University of Alabama, such as the SACS steering committee and the SACS compliance committee 
+
+**Graduate Research Assistant** \hfill August 2012 - May 2013  
+*Ohio University, Department of Social and Public Health, Athens, Ohio, USA*
+
+-	Assisted professors with grading course work and proctoring exams
+-	Provided research assistance to faculty
+-	Performed a variety of administrative duties including data entry, data security, and registering students for classes
+
+**Resident Assistant** \hfill January 2008 - June 2010  
+*Ohio University, Residential Housing, Athens, Ohio, USA*		
+
+- Created an enjoyable living community that was conducive to fostering long lasting friendships
+-	Planned, created, and implemented programs 	
+
+**Peer Advisor** \hfill August 2008 - June 2010  
+*Ohio University, Office of Multicultural Student Access and Retention, Athens, Ohio, USA	*	
+
+-	Worked with first year multicultural students to give them a good foundation for college
+-	Mentored and discussed academic and social progress during weekly meetings, and linked students to campus
+-	Gave recommendations based on progress
+
+
+# Research Interests 
+
+-	Sexual Health
+-	Stress 
+-	Health Inequities 
+-	Women’s Health
+- Public Health
+
+# Research Experience
+
+**Religiously Tailoring the ARTSA-strength based system ** \hfill September 2017 - Present  
+*The University of Missouri-Kansas City, School of Medicine, Kansas City, MO, USA*
+
+-	Primary Investigator
+-	Created a community action board
+-	Created three brief surveys and three discussion guides		 
+
+**College student sexuality survey** \hfill October 2017 - Present  
+*The University of Missouri-Kansas City, School of Medicine, Kansas City, MO, USA*
+
+-	Co-Investigator 
+-	Collaborated with Dr. Erin Moore at Stetson University 
+-	Examined college student sexual behavior through using survey methodology		
+
+**Black MSM Health Initiative ** \hfill May 2017- Present  
+*The University of Missouri-Kansas City, School of Medicine, Kansas City, MO, USA*
+
+-	Primary Investigator 
+-	Created a health needs assessment for African American men who have sex with men
+-	Partnered with BlaqOut, a community action board made up of black men who have sex with men in the Kansas City area  		
+
+**Jamaica Health Promotion** \hfill February 2017- Present   
+*The University of Missouri-Kansas City, School of Medicine, Kansas City MO, USA*		
+
+-	Input and analyzed data collected during a health needs assessment conducted in St. Mary’s and St. Anne’s parishes 
+-	Created a health needs report outlining the results of the assessment
+
+**Faith Influencing Transformation** \hfill January 2017- Present  
+*The University of Missouri-Kansas City, School of Medicine, Kansas City MO, USA*
+
+-	Utilized quantitative methods used to collect data from congregation members
+-	Analyze quantitative data
+-	Developed manuscripts for dissemination of results
+- Developed and designed participant training manuals and supporting documentation
+-	Assisted with the implementation of FIT across multiple sites
+
+**Taking is to the Pews ** \hfill October 2016- Present  
+*The University of Missouri-Kansas City, School of Medicine, Kansas City, MO, USA*		
+
+-	Utilized quantitative methods used to collect data from congregation members in Kansas City, Missouri 
+-	Community-based participatory research
+-	Randomized control intervention 
+-	Developed manuscripts for dissemination of results
+-	Conducted process/implementation evaluation to ensure the fidelity of the program 	
+
+**Examining the Determinants of Condom Use** \hfill January 2015- August 2016  
+*The University of Alabama, Tuscaloosa, AL, USA*
+
+-	Primary investigator 
+-	Used quantitative methods to collect data 
+-	Collected data via Qualtrics (a web-based platform) 
+-	Mentored a Master’s student	
+
+**Project FAITHH/HEAL** \hfill September 2013- December 2015  
+*The University of Alabama, Tuscaloosa, AL, USA*	
+
+-	Used qualitative and quantitative methods to collect data from congregation members in rural Alabama 
+-	Community based participatory research 
+-	Assisted in the implementation of a randomized control intervention	
+
+**Health Impact of Childcare** \hfill September 2012- May 2013  
+*Ohio University, Athens, OH, USA*
+
+-	Primary Investigator
+- Examined the impact of having childcare on parent health 
+-	Created a survey instrument 
+-	Collected quantitative data 
+-	Utilized SPSS to analyze data 	
+
+**Analysis of Campus Care** \hfill January 2013- April 2013  
+*Ohio University, Athens, OH, USA*	
+
+-	Primary Investigator
+-	Evaluated the communication systems of a campus health center
+-	Reported the opportunities for improvement 		
+
+**Project Linkage** \hfill June 2008 - April 2010  
+*Ohio University, Athens, OH, USA*
+
+-	Worked with older adults with HIV/AIDS to find out how their moods changed over a period of time while taking a group counseling class 		
+
+**Project Detect** \hfill June 2008- April 2010  
+*Ohio University, Athens, OH, USA*
+
+-	Researched the comorbid diseases of older adults living with HIV/AIDS
+-	Imputed data into SPSS
+-	Assisted with research tasks
+-	Collected quantitative data
+-	Assisted in screening potential participants 
+
+**Project Have a HAART** \hfill March 2010  
+*Ohio University, Athens, OH, USA*		
+
+-	Telephone-Administered Intervention to Improve Medication Adherence in HIV-Infected Rural Persons
+-	Screened potential participants 		
+
+# Publications
+## Journal Articles
+
+Berkley-Patton, J., Thompson, C. B., Bradley-Ewing, A., Marcie, B., Booker, A., Catley, D., ... & **Aduloju-Ajijola, N.** (2018). Identifying health conditions, priorities, and relevant multilevel health promotion intervention strategies in African American churches: A faith community health needs assessment. Evaluation and program planning, 67, 19.
+
+Payne-Foster, P., Bradley, E., **Aduloju-Ajijola, N.**, Yang, X., Gaul, Z, Parton, J., Sutton, M., Gaskins, S. (2017). Testing our faithh: HIV stigma and knowledge after a faith-based HIV stigma reduction intervention in the rural south [USA]. AIDS Care. 
+
+**Aduloju-Ajijola, N.**, & Payne-Foster, P. (2017). Five years later: how are we addressing the sexual health of black boys. Internal Medicine Review, 3(5), 11. doi: http://dx.doi.org/10.18103/imr.v3i5.405 
+
+Mugoya, G. C. T., **Aduloju-Ajijola N**, & George Dalmida S. (2016). Relationship between knowledge of someone infected with HIV/AIDS and HIV stigma: a moderated mediation model of HIV knowledge, gender and HIV test uptake. HIV/AIDS Research and Treatment Open Journal.  SE(3): S14-S22. doi:10.17140/HARTOJ-SE-3-103
+
+George, S., **Aduloju-Ajijola, N.**, Clayton-Jones, D., Thomas, T., Erazo Toscano, R., Lewis, R., Fleming, T., Taylor, S., & Lungyon, M., (2016). Sexual risk behaviors of African American adolescent females: the role of cognitive and religious factors. Journal of Transcultural Nursing. Doi:10.1177/1043659616678660
+
+
+
+
+## Presentations
+
+Bauer, A., Berkley-Patton, J., Christensen, K., Bowe-Thompson, C., Lister, C., Johnson, N., & **Aduloju-Ajijola, N.** (November 2018) HIV Testing among Church-Affiliated African Americans: An Application of the Theory of Planned Behavior. Abstract submitted for the 2018 Annual Meeting & Expo of the American Public Health Association, San Diego, CA.
+
+Bauer, A., Berkley-Patton, J., Christensen, K., Bowe-Thompson, C., Lister, C., Johnson, N., & **Aduloju-Ajijola, N.** Pre-Exposure Prophylaxis (PrEP) in Faith-Based Communities: Identifying African Americans at Greatest Risk for HIV. Abstract submitted for the 2018 Annual Meeting & Expo of the American Public Health Association, San Diego, CA.
+
+Lumpkins, C., **Aduloju-Ajijola, N.**, Nwachakor, D., Blackstock, A., Blackstock, A., Crawford,B., Miller,L.,  Groves, I., Moore, T., Greiner, A., Berkley-Patton, J., & Daley, C. (April 2018). “It's Time to A.C.T.: Baseline Outcomes of Addressing Cancer Through Churches - a Health Promotion Pilot Intervention to Impact Colorectal Cancer Screening Among African American Faith Communities”. Society of Behavioral Medicine, New Orleans, LA. 
+
+**Aduloju-Ajijola, N.**, Berkley-Patton, J., Bowe Thompson, C., K., Johnson, N., Lister, S., Booker, A., & Christensen, K. (March 2017). Sleep and health behaviors among African American congregation members. Society of Behavioral Medicine, San Diego, CA.
+
+**Aduloju-Ajijola, N.** & Mugoya, G. (January 2016) correlates of HIV related stigma, HIV related knowledge, and voluntary testing in Nigerian men and women. Women in Stem experience 2016- Building an impact, Tuscaloosa, AL. 
+
+Aholou, T.; Payne-Foster, F.; Cooks, E.; Sutton, M.; Gaskins, S.; **Aduloju-Ajijola, N.**; Washington-Ball, B.;(December 2015) Healing through FAITH: Developing an HIV Stigma Reduction Intervention.  2015 National HIV Prevention Conference. Atlanta, Georgia.
+
+**Aduloju-Ajijola, N.**; Knowlden, A. (November 2015). Efficacy of primary condom use interventions for African American college students. American Public Health Association. Chicago, IL. 
+
+Panye-Foster, P., Sutton, M., Anholu, T., Gaskins, S., **Aduloju-Ajijola, N.**;(November 2015). HIV knowledge among persons living with HIV/AIDS in rural Alabama churches. American Public Health Association. Chicago, IL. 
+
+Pember, S.; White, P.; **Aduloju-Ajijola, N.**; Dobynes, A.;(September 2015). The Tide Together Experience. Graduate School Preview Day . Tuscaloosa, AL. 
+
+**N. Aduloju-Ajijola**, P. Payne-Foster, S. Gaskins, E. Cooks, M. Sutton, T. Anonlu.;(March 2015). HIV knowledge African American living with HIV. 16th Annual Rural Health Conference 2015. Tuscaloosa, AL. 
+
+P. Payne-Foster, S. Gaskins, M. Sutton, T. Anonlu, **N. Aduloju-Ajijola**.(April 2014) Recruitment of African American pastor into an HIV clinical trial. 15th Annual Rural Health Conference 2014. Tuscaloosa, AL. 
+
+**Aduloju-Ajijola, N**.; Basta, T.; (April 2014). Health and Childcare. National Black Graduate Student Association. Baton Rouge, LA. 
+
+**Aduloju-Ajijola, N.**; Turner, L.; (April 2014). Literature Review, Transtheoretical Model and Condom Use in College Students. African American Graduate Student Symposium. Tuscaloosa, AL. 
+
+Boyd, K.; Stokes, D.; Pember, S.; **Aduloju-Ajijola, N.**; White, P. (March 2014). The Tide Together Experience, Graduate School Preview Day. Tuscaloosa, AL. 
+
+## Non-Research Presentations
+
+**Aduloju-Ajijola, N.** (December 2017). HIV/AIDS in the Black Community. Senal.  Invited Lecturer. Kansas City, MO.
+
+**Aduloju-Ajijola, N.**, (March 2015). “The Rise of the Side”. Collegiate 100, An association of African American leaders on the campus of The University of Alabama. Tuscaloosa, AL. 
+
+**Aduloju-Ajijola,N.**, (February 2013).“What is considered safe”.  Ohio University Association of Black Journalists. Athens, OH. 
+
+
+# Teaching Experience
+
+**Aduloju-Ajijola, N.** (February 2017). HIV/AIDS in the Black Community. Ohio University Heritage College of Osteopathic Medicine.  Invited Lecturer. Athens, OH.
+
+**Project Democracy** \hfill July 2015  
+*The University of Alabama, Sexually Transmitted Infections* 		
+
+**Rural Health Scholars** \hfill June 2015  
+*The University of Alabama, Sexually Transmitted Infections*
+
+Guest Lecturer: 		
+**Personal Health**  
+*The University of Alabama Sexual Health- Sexually Transmitted Infections* 
+- October 2015, June 2015; September 2014; July 2014; June 2014		
+		
+**Life Skills**  
+*The University of Alabama*
+
+- Finding a work, life balance
+- October 2014; March 2014; October 2015; January 2016		
+	
+**A3 for Life- HIV/AIDS** 
+*initiative by Sigma Gamma Rho in partnership with the CDC*
+
+- Epsilon Mu Sigma Chapter of Sigma Gamma Rho	\hfill  March 2013
+-	Sigma Gamma Rho Youth Symposium	\hfill November 2013
+				
+**Tutor** \hfill November 2007- December 2012  
+*Ohio University, Athens, Ohio* 		
+				
+# Service
+
+**Graduate Student Association, Executive Vice- President** \hfill April 2015 - April 2016  
+*The University of Alabama, Tuscaloosa, AL, USA*
+
+- Member of Campus wide Library Committee
+- Responsible for departmental delegates		
+	
+**Tide Together Mentor**	\hfill	August 2014 - August 2016  
+*The University of Alabama, Tuscaloosa, AL, USA*
+
+-	Provide guidance, mentorship, and friendship to a first year doctoral student
+-	Improve soft skills
+-	Continue to foster relationships across campus
+
+**Graduate Student Ambassador** \hfill	May 2014 - August 2016  
+*The University of Alabama, Tuscaloosa, AL, USA*
+
+-	Answer questions about the University of Alabama
+-	Take potential students on tour of the University 		
+
+**Graduate Student Association, Vice President of Fiscal Affairs and Awards** \hfill April 2014 - April 2015  
+*The University of Alabama, Tuscaloosa, AL, USA*
+
+- Co-Chair of GSA Health Committee
+- Member of campus wide committee on student health		
+	
+**16th Annual Rural Health Conference Moderator, Session 6, Community Track**	\hfill April 2015  
+*The University of Alabama, Tuscaloosa, AL, USA*
+
+**Volunteer** \hfill June 2014  
+*United Way, One Place, Tuscaloosa, AL, USA*
+
+**Health Educator** \hfill September 2013  
+*Newbern, Alabama, USA*
+
+- Project UNITED (Using New Interventions Together to Eliminate Disparities) Health fair funded by the National Institute for Minority Health and Health Disparities
+- Over 200 children and adults served	
+
+**Graduate Student Senate, Senator of the College of Health Sciences** \hfill October 2012 - May 2013  
+*Ohio University, Athens, OH, USA*
+
+-	Advocated for the needs of graduate students
+-	Created Candies and Condoms
+  + Distributed packages of candies, condoms, and health information
+  + Received funding from departments across campus
+  + Gave a oral report of the success of the program
+  + Featured in local news paper (Athens Post)
+
+**Graduate Student Senate, Representative for Social and Public Health** 	\hfill August 2012 - October 2012  
+*Ohio University, Athens, OH, USA*
+
+# Professional Development 
+
+- Attended the Summer Qualitative Intensive \hfill July 2018
+- Attended the Translational Research Institure \hfill April 2018
+- Attended the Compact for Faculty Diversity	\hfill	October 2016
+- Attended the National HIV Prevention Conference	\hfill December 2015
+- Tide Together Mentee, University of Alabama	\hfill August 2013 - May 2014
+  + Attended workshops 
+  + Developed soft skills 
+  + Foster relationships with faculty and students within the program	
+- Attended the Compact for Faculty Diversity \hfill October 2015
+-	Attended the Southern Association of Colleges and Schools (SACS) Conference \hfill December 2013
+
+# Memberships and Affiliations
+
+**American Public Health Association** \hfill September 2013- present  
+
+- Conference moderator- 2015- Session 4253.0: Thinking about Condoms
+- Abstract Reviewer
+- Conference moderator- 2014- Session 4361.0: Promoting Health and Physical Fitness in Youth 
+- Mentoring Community, Student Assembly	
+	
+**Society of Public Health Educators** \hfill September 2013 - 2016  
+- Abstract Reviewer		
+	
+**Sigma Gamma Rho Sorority Incorporated**	\hfill November 2008- Present  
+*Epsilon Mu Sigma, Tuscaloosa, AL, USA*
+
+- Planned and partnered the 2016 Youth Symposium with the National Organization for the Professional Advancement of Black Chemists and Chemical Engineers
+-	Grammetus
+- 2014 Stillman College step show judge
+-	2013 University of Alabama step show judge
+
+*Lambda Xi Sigma, Athens, OH, USA*
+
+- Charter member
+
+*Delta Omicron Sigma, Columbus, OH, USA*
+
+*Eta Psi, Ohio University, Athens, OH, USA*
+
+-	Epistoleous
+-	Black Alumni Weekend step show participant
+-	Designed and implemented programs
+-	Collaborated with other student organizations
+			
+**African American Graduate Student Association** \hfill	September 2013-August 2016  
+
+**Eta Sigma Gamma, Delta Xi Chapter** \hfill September 2013- September 2014  
+*Health Education Honor Society, Tuscaloosa, AL, USA*
+
+-	Co-Chair of World Aids Day
+-	Co-Chair of Candies and Condoms Valentine’s Day Event
+  + Distributed packages of candies, condoms, and health information 
+  + Promoted condom usage and spread awareness about STI’s
+-	Holt After School Committee Member
+-	Holt Community Festival Committee Member
+
+# References
+
+Available upon request
